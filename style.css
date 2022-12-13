@@ -1,0 +1,28 @@
+* {
+  max-width: 700px;
+  margin: auto;
+}
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  font-family: verdana;
+  font-size: 13px;
+  font-style: italic;
+  font-style: bold;
+  text-align: center
+}
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+   font-family: verdana;
+  font-size: 70%;
+}
+
+h4 {
+	font-family: "times new romans";
+}
